@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "G:\\Code\\android\\AndroidProject\\myHeartClient\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "G:\\Code\\android\\AndroidProject\\myHeartClient\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "G:\\Code\\android\\AndroidProject\\myHeartClient\\build\\intermediates\\res\\merged\\debug\\layout\\activity_lookup.xml",
+        "source": "G:\\Code\\android\\AndroidProject\\myHeartClient\\src\\main\\res\\layout\\activity_lookup.xml"
+    },
+    {
+        "merged": "G:\\Code\\android\\AndroidProject\\myHeartClient\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "G:\\Code\\android\\AndroidProject\\myHeartClient\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "G:\\Code\\android\\AndroidProject\\myHeartClient\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "G:\\Code\\android\\AndroidProject\\myHeartClient\\src\\main\\res\\layout\\activity_register.xml"
+    }
+]
